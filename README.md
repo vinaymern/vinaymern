@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vinay
-- ![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet&style=flat&abbreviated=true)
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vinaymern)
 - 👀 I’m interested in exploring all tech stacks
 - 🌱 I’m currently learning full stack web dev
 - 💞️ I’m looking to collaborate on both web apps/android apps(flutter) 
