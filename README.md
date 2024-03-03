@@ -1,7 +1,7 @@
-- 👋 Hi, I’m vinay ![](https://komarev.com/ghpvc/?username=vinaykumar0410)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+- 👋 Hi, I’m vinay ![](https://komarev.com/ghpvc/?username=vinaymern)
+![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=vinaymern&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vinaymern&abbreviated=true)
 - 👀 I’m interested in exploring all tech stacks
 - 🌱 I’m currently learning full stack web dev
 - 💞️ I’m looking to collaborate on both web apps/android apps(flutter) 
