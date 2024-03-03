@@ -1,15 +1,5 @@
-- 👋 Hi, I’m vinay
-- ![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet&style=flat&abbreviated=true)
-- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=vinaymern"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'vinaymern');
-</script>
-
+<sup><h1>👋 Hi, I’m vinay</h1></sup>
+ ![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet&style=flat&abbreviated=true)
 - 👀 I’m interested in exploring all tech stacks
 - 🌱 I’m currently learning full stack web dev
 - 💞️ I’m looking to collaborate on both web apps/android apps(flutter) 
