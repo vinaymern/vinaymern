@@ -1,4 +1,5 @@
-- 👋 Hi, I’m vinay ![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet&style=flat-square&abbreviated=true)
+- 👋 Hi, I’m vinay
+- ![](https://komarev.com/ghpvc/?username=vinaymern&color=blueviolet&style=flat&abbreviated=true)
 - 👀 I’m interested in exploring all tech stacks
 - 🌱 I’m currently learning full stack web dev
 - 💞️ I’m looking to collaborate on both web apps/android apps(flutter) 
